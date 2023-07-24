@@ -47,12 +47,12 @@ variable "instance_cores" {
 
 variable "instance_memory" {
   type    = number
-  default = 1
+  default = 2
 }
 
 variable "instance_core_fraction" {
   type    = number
-  default = 5
+  default = 100
 }
 
 variable "boot_disk_type" {
