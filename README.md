@@ -54,6 +54,8 @@ No modules.
 |------|-------------|
 | <a name="output_external_ip_address"></a> [external\_ip\_address](#output\_external\_ip\_address) | n/a |
 | <a name="output_fqdn"></a> [fqdn](#output\_fqdn) | n/a |
+| <a name="output_id"></a> [id](#output\_id) | n/a |
 | <a name="output_internal_ip_address"></a> [internal\_ip\_address](#output\_internal\_ip\_address) | n/a |
 | <a name="output_labels"></a> [labels](#output\_labels) | n/a |
+| <a name="output_name"></a> [name](#output\_name) | n/a |
 | <a name="output_network_interface"></a> [network\_interface](#output\_network\_interface) | n/a |
