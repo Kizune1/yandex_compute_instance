@@ -17,3 +17,11 @@ output "labels" {
 output "network_interface" {
   value = yandex_compute_instance.vm.*.network_interface
 }
+
+output "id" {
+  value = yandex_compute_instance.vm.*.id
+}
+
+output "name" {
+  value = yandex_compute_instance.vm.*.name
+}
